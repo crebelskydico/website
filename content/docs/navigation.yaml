@@ -352,7 +352,7 @@
               items:
                 - title: Overview
                   slug: data-api/overview
-                - title: Quickstart
+                - title: Get started
                   slug: data-api/get-started
 
             - section: Guides
@@ -429,6 +429,22 @@
                   slug: auth/guides/configure-domains
                 - title: Production checklist
                   slug: auth/production-checklist
+
+            - section: Plugins
+              items:
+                - title: Supported plugins
+                  slug: auth/guides/plugins
+                  items:
+                    - title: Admin
+                      slug: auth/guides/plugins/admin
+                    - title: Email OTP
+                      slug: auth/guides/plugins/email-otp
+                    - title: JWT
+                      slug: auth/guides/plugins/jwt
+                    - title: OpenAPI
+                      slug: auth/guides/plugins/openapi
+                    - title: Organization
+                      slug: auth/guides/plugins/organization
 
             - section: Reference
               items:
